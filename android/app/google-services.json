@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284085706539",
+    "project_id": "lencana-barista",
+    "storage_bucket": "lencana-barista.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284085706539:android:4703d8c4a28d57eb84ef6e",
+        "android_client_info": {
+          "package_name": "com.example.lencana_barista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVbpQ8hJeq108WMwKNTylRnWCKRKRpJtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
